@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **uribejuandavid5@gmail.com**
 
-- ⚡ Fun fact **La tecnología es mejor cuando reúne a la gente.- Matt Mullenweg**
+- ⚡ Fun fact **Technology is better when it brings people together.- Matt Mullenweg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
