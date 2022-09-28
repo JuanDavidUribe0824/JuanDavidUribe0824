@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.gigantes.com/wp-content/uploads/2019/03/LeBron-Jordan.jpg">
+<img align="right" alt="Coding" width="400" src="https://st.depositphotos.com/2466369/56313/i/600/depositphotos_563137770-stock-photo-software-programming-concept-in-3d.jpg">
 <h1 align="center">Hi 👋, I'm Juan David</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
